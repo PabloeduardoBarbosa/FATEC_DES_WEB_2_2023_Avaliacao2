@@ -3,11 +3,6 @@
 
 #INFORMAÇÕES:
 
-Nome do candidato
-RG ou CPF
-Telefone
-Campo booleano para oriundo de escola pública
-
 Classe com abstrações do banco de dados:
 
 CRUD:
